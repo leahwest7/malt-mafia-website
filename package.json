@@ -1,0 +1,22 @@
+{
+  "name": "malt-mafia-website",
+  "version": "1.0.0",
+  "description": "A playful website about malts and Handles ice cream, created by the Malt Mafia.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": [
+    "malt",
+    "ice cream",
+    "Malt Mafia"
+  ],
+  "author": "Malt Mafia",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
